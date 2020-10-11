@@ -1,3 +1,6 @@
+修改 config.js ,将const RETRY_LIMIT = 7 改为 const RETRY_LIMIT = 1000
+
+
 # Google Drive 百宝箱
 
 > [与其他工具的对比](./compare.md)
