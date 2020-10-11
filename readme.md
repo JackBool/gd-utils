@@ -1,4 +1,4 @@
-修改 config.js ,将const RETRY_LIMIT = 7 改为 const RETRY_LIMIT = 1000
+修改 config.js ,将const RETRY_LIMIT = 7 改为 const RETRY_LIMIT = 1000 ；const PAGE_SIZE = 1000 改为 const PAGE_SIZE = 500
 
 
 # Google Drive 百宝箱
